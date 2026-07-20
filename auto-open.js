@@ -1,4 +1,4 @@
-const capsule = 'Hat';
+const capsule = 'Color';
 let opened = 0;
 
 setInterval(() =>
