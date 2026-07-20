@@ -1,4 +1,4 @@
-const capsule = 'Hat';
+const capsule = 'Emoji';
 let opened = 0;
 
 setInterval(() =>
